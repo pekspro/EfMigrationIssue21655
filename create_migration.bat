@@ -1,0 +1,1 @@
+dotnet ef migrations script --project .\NetCore3.1TestApplication\NetCore3.1TestApplication.csproj --context FirstDatabaseContext
